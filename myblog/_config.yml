@@ -22,8 +22,8 @@ title: Box8 Engineering
 email: techblog@box8.in
 description: >- # this means to ignore newlines until "baseurl:"
   “There is no love sincerer than the love for food”. For us, there is no love sincerer than the love for DESI FOOD!"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/myblog" # the subpath of your site, e.g. /blog
+url: "ankittarway.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: BOX8_in
 github_username: box8engineering
 
